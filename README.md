@@ -1,5 +1,4 @@
-# petWaster
-Executive Summary
+# petWaster Summary
 The Environmental Finance Center (EFC) at the University of Maryland is launching a Pet Waste Education Campaign in collaboration with the Prince George’s County. An outreach program and an educational effort have been designed to increase awareness about the issue of pet waste pollution and to encourage residents to pick up their pet’s waste. 
 
 As a part of this campaign, they have decided to launch a mobile application that will help the residents of PG County in locating the nearest pet waste facility when they are out for a walk with their pets. This mobile application will have an easy to use interface that the residents can use to search and locate the nearest pet waste stations. Along with the other components of this Pet Waste campaign the EFC wants to use the mobile application as an asset management tool to measure the success of the campaign. 
